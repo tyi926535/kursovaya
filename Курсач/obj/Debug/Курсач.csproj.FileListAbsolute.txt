@@ -1,0 +1,38 @@
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\bin\Debug\mscorlib.dll
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\bin\Debug\ru\mscorlib.resources.dll
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\bin\Debug\normidna.nlp
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\bin\Debug\normnfc.nlp
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\bin\Debug\normnfd.nlp
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\bin\Debug\normnfkc.nlp
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\bin\Debug\normnfkd.nlp
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\obj\Debug\Курсач.Form1.resources
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.Cache
+c:\users\cromi\documents\visual studio 2013\Projects\Курсач\Курсач\obj\Debug\Курсач.csprojResolveAssemblyReference.cache
+C:\Users\cromi\Documents\Visual Studio 2013\Projects\Курсач\Курсач\bin\Debug\Курсовая.exe.config
+C:\Users\cromi\Documents\Visual Studio 2013\Projects\Курсач\Курсач\bin\Debug\Курсовая.exe
+C:\Users\cromi\Documents\Visual Studio 2013\Projects\Курсач\Курсач\bin\Debug\Курсовая.pdb
+C:\Users\cromi\Documents\Visual Studio 2013\Projects\Курсач\Курсач\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\cromi\Documents\Visual Studio 2013\Projects\Курсач\Курсач\obj\Debug\Курсовая.exe
+C:\Users\cromi\Documents\Visual Studio 2013\Projects\Курсач\Курсач\obj\Debug\Курсовая.pdb
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\bin\Debug\Курсовая.exe.config
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\bin\Debug\Курсовая.exe
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\bin\Debug\Курсовая.pdb
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\obj\Debug\Курсовая.exe
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\архив\Курсач\obj\Debug\Курсовая.pdb
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\obj\Debug\Курсовая.exe
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\obj\Debug\Курсовая.pdb
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\bin\Debug\Курсовая.exe.config
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\bin\Debug\Курсовая.exe
+C:\Users\nastya\Desktop\созерцатель\Базы данных\3 курс 1 семестр\Cursov\Курсач\bin\Debug\Курсовая.pdb
